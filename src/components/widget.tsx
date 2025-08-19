@@ -1,15 +1,13 @@
 import React from "react";
-import '../components/button';
-import '../components/widget';
 
 // React.FC = React Functional Component
-const signInModal: React.FC = () => {
+const RoundedBox: React.FC = () => {
   return (
     <div
       style={{
         width: "40vw",
         height: "40vw",
-        backgroundColor: "#AFAFAF",
+        backgroundColor: "#6b4b4bff",
         borderRadius: "15px",
       }}
     >
@@ -17,4 +15,4 @@ const signInModal: React.FC = () => {
   );
 };
 
-export default signInModal;
+export default RoundedBox;
