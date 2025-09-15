@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "backend/src/main/java",
+        "backend/src/test/java"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
